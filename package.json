@@ -1,0 +1,22 @@
+{
+  "name": "design-system",
+  "version": "1.0.0",
+  "description": "A comprehensive design token system with dark colors and blue/purple accents, featuring modern typography and reusable components.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "serve": "python3 -m http.server 8080",
+    "start": "npm run dev",
+    "build": "echo \"Static files ready for deployment\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design-system",
+    "css",
+    "components",
+    "dark-theme",
+    "tokens",
+    "ui"
+  ],
+  "private": true
+}
