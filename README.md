@@ -21,7 +21,7 @@ A comprehensive design token system with dark colors and blue/purple accents, fe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/design-system.git
+git clone https://github.com/codersbrew/design-system.git
 cd design-system
 ```
 
@@ -470,7 +470,7 @@ Built with ❤️ for modern web applications. Perfect for dashboards, admin pan
 
 ## 🔗 Links
 
-- **Live Demo**: [View the design system](https://your-username.github.io/design-system)
+- **Live Demo**: [View the design system](https://codersbrew.github.io/design-system)
 - **Documentation**: See `CLAUDE.md` for development guidance
 - **Issues**: Report bugs and feature requests
 - **Discussions**: Share ideas and get help
