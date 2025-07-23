@@ -1,0 +1,25 @@
+<svg width="300" height="40" viewBox="0 0 300 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Icon_Group">
+        <path id="Tilde" d="M2 19.5C2 17 4 15 6.5 15C9 15 11 17 11 19.5C11 22 13 24 15.5 24C18 24 20 22 20 19.5" stroke="#00A8FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+        <path id="Backslash" d="M34 10L26 30" stroke="#00A8FF" stroke-width="4" stroke-linecap="round"/>
+
+        <rect id="Cursor" x="42" y="10" width="12" height="20" fill="#F0F0F0">
+            <animate
+                    attributeName="opacity"
+                    values="1;0;1"
+                    dur="1.2s"
+                    repeatCount="indefinite" />
+        </rect>
+    </g>
+
+    <g id="Wordmark_Group">
+        <text
+                x="74"
+                y="28"
+                fill="#F0F0F0"
+                style="font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 32px; font-weight: 500; letter-spacing: 0.01em;">
+            Essenburg
+        </text>
+    </g>
+</svg>
